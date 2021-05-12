@@ -7,5 +7,6 @@ categories:
   - Journal
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Walking_reflection.jpg/1200px-Walking_reflection.jpg
+tags: [sticky]
 ---
 First post for testing purposes.&nbsp;

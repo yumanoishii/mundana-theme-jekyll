@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Miss my Ses
-author:
+author: gc
 categories:
   - Reflection
   - Journal

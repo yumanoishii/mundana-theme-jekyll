@@ -1,11 +1,11 @@
 # Site
-name: 'GothCactus Blog'
+name: 'GothCactus Mindscape'
 description: 'Personal blog of gothcactus'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/gcblog'
 disqus: 'demowebsite'
-email: 'yumanoishii@gmail.com'
+email: 'gothcactusblog@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -24,8 +24,8 @@ authors:
       site:           https://www.gothcactus.com
       avatar:         /assets/images/avatar1.jpg
       bio:            "the cluster of neurons behind these ramblings"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      email:          gothcactusblog@gmail.com
+      twitter:        https://twitter.com/
  
 # Defaults
 defaults:

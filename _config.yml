@@ -21,7 +21,7 @@ plugins:
 authors:
     gc:
       name:           gothcactus
-      site:           https://www.gothcactus.com
+      site:           https://gothcactus.com/gcblog/
       avatar:         /assets/images/avatar1.jpg
       bio:            "the cluster of neurons behind these ramblings"
       email:          gothcactusblog@gmail.com

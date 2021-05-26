@@ -5,8 +5,7 @@ author: gc
 categories:
   - Reflection
   - Journal
-image: >-
-  https://www.efestivals.co.uk/forums/uploads/monthly_2020_05/1124240362_HamsterMask.thumb.jpg.3b3f21b357b52f5e37429d0a898d0a6d.jpg
+image: /assets/images/ses.png
 ---
 Yesterday my hammie Ses died.&nbsp;
 

@@ -1,19 +1,17 @@
 <!--  Replace menu links here -->
-<ul class="nav nav-pills">
+<ul class="nav nav-tabs">
   <li class="nav-item">
-  <a class="nav-link" href="{{site.baseurl}}/index.html">Home</a>
+  <a class="active" href="{{site.baseurl}}/index.html">Home</a>
   </li>
-  <li class="nav-item dropdown">
-  <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{site.baseurl}}/categories.html" role="button" aria-haspopup="true" aria-expanded="false">Categories</a>
-      <div class="dropdown-menu">
-        <a class="dropdown-item" href="{{site.baseurl}}/categories.html#reflection">Reflection</a>
-        <a class="dropdown-item" href="{{site.baseurl}}/categories.html#politics">Politics</a>
-        <a class="dropdown-item" href="{{site.baseurl}}/categories.html#teaching">Teaching</a>
-        <a class="dropdown-item" href="{{site.baseurl}}/categories.html#work">Work</a>
-        <div class="dropdown-divider"></div>
-        <a class="dropdown-item" href="#">Featured</a>
-      </div>
-  </li
+  <li class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="{{site.baseurl}}/categories.html">Categories</a>
+     <span class="caret"></span></a>
+      <ul class="dropdown-menu">
+        <li><a href="{{site.baseurl}}/categories.html#reflection">Reflection</a></li>
+        <li><a href="{{site.baseurl}}/categories.html#teaching">Teaching</a></li>
+        <li><a href="{{site.baseurl}}/categories.html#work">Work</a></li>
+      </ul>
+    
   <li class="nav-item">
   <a class="nav-link" href="{{site.baseurl}}/authors-list.html">Authors</a>
   </li>

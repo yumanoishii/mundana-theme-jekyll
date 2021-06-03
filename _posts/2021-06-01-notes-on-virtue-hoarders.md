@@ -39,6 +39,8 @@ Notes:
 
 **The PMC has children**
 
+*PMC parents want their children to be "perfect" which leads to their micromanaging children on a path to success. This process causes a significant amount of stress and anxiety for PMC parents. But the worst effect of PMC parenting is their stance against welfare and individualistic approach to education. They are not supportive of programs that would help working class parents and children and see their children as entitled to education even if it means it is at the expense of others.&nbsp;*
+
 * PMC parents think of the child as possessing potential that has to be optimized and maximized
 * fear is one of the distinctive features of contemporary middle class parenting
 * parents feel that they must "manage" everything their children do so that they would be "on track" to success
@@ -67,3 +69,15 @@ Notes:
   * dependency is not feared or demonized but rather seen as a part of collective social responsibility&nbsp;
 
 **The PMC Reads a Book**
+
+* the book that symbolizes the PMC mindset is To Kill a Mockingbird
+* essentially pmc believes that individual acts of empathy and private self-cultivation would produce justice in the larger picture and solve all social problems
+* which fits with the other individualist ideologies of the pmc class where atomized individuals, through self-improvement, think that they will change society
+* also affects education as programs such as the Common Core and Race to the Top all represent attacks against unions and lower ranks of white collar professionals
+  * even though most of the rhetoric against teachers blame their performance and student achievement, the actual agenda is to undermining job security and autonomy won by teacher unions
+  * the mastermind behind RTT was Coleman, later to become the CEO of the College Board
+* TKM was nothing more than an effective piece of Cold war anti-communist propaganda: good white people defending black people against bad and poor white people
+* pmc class always has some new self-improvement fad such as various diets and "returning to the land", etc because of their need to be "good"
+* this also means mastering languages of liberal tolerance that are used against the working class to show that they are more "progressive"&nbsp;
+
+**PMC Has Sex**
